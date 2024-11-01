@@ -1,0 +1,67 @@
+
+/* WCFM Integration */
+#wcfm_wholesalex_dynamic_rules{
+    background-color: var(--wholesalex-background-color) !important;
+}
+#wcfm_wholesalex_conversations{
+    background-color: var(--wholesalex-background-color) !important;
+}
+#wcfm_wholesalex_dynamic_rules .wcfmfa.wholesalex_wcfm_logo {
+    margin-top: 20px;
+}
+#wcfm_wholesalex_dynamic_rules .wholesalex_header_wrapper {
+    display: none;
+}
+#wcfm_wholesalex_conversations .wholesalex_header_wrapper {
+    display: none;
+}
+.wholesalex_logo {
+    max-height: 25px;
+}
+#wcfm_wholesalex_dynamic_rules .wholesalex_wrapper {
+    margin-top: 15px;
+}
+#wcfm_wholesalex_conversations table {
+    padding: 11px 30px 11px 30px !important;
+    margin-top: 0px !important;
+}
+#wcfm_wholesalex_conversations th.wholesalex_lists__column_select.wholesalex_lists__column {
+    display: none;
+}
+#wcfm_wholesalex_conversations .wholesalex_lists__table_navbar {
+    padding-bottom: 5px;
+}
+#wcfm_wholesalex_conversations td.wholesalex_lists__select_field.wholesalex_lists__column {
+    display: none;
+}
+.wholesalex_slider {
+    width: 38px !important;
+}
+#wcfm_wholesalex_conversations .wcfm-collapse-content,#wcfm_wholesalex_dynamic_rules .wcfm-collapse-content {
+    padding: 35px;
+}
+
+#wcfm_wholesalex_conversations ul.wholesalex_row_actions {
+    padding-inline-start: unset;
+}
+
+.wholesalex_wcfm .wholesalex-tier-add, 
+.wholesalex_wcfm .wholesalex-tier-delete {
+    height: 40px;
+    width: 47px;
+}
+
+.wholesalex_wcfm .wholesalex_field_label {
+    margin-bottom: 0px;
+}
+#wcfm_wholesalex_dynamic_rules .wholesalex-datepicker input[type="number"] {
+    border: unset !important;
+    background-color: unset !important;
+    box-shadow: unset !important;
+}
+.wholesalex_lists__paginations {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+}
